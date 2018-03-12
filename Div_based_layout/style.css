@@ -1,0 +1,21 @@
+div{
+    outline:1px solid red;
+}
+.logoarea{
+    width:100%;
+    float:left
+}
+.menu{
+    width:100;
+    float:left
+}
+.logo{
+    width:200px;
+    height:100px;
+    float:left
+    
+}
+.slogan{
+    width:auto;
+    float:left
+}
