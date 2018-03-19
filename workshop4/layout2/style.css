@@ -1,0 +1,26 @@
+    div{
+        outline:1px solid lime;
+    }
+.header{
+    width:920;
+        background-color:blue;
+    height:200px;
+}
+.container{
+    width:920px;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+.redboxes{
+    background-color: red;
+    height: 400px;
+        width:306px;
+            float:left;
+}
+.greenbox{
+    width:920px;
+    background-color: green;
+    height:200px;
+    float:left;
+}
